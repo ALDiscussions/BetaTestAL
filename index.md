@@ -1,7 +1,25 @@
 <html>
     <body>
-        <p>This is an example of a simple HTML page with one paragraph.
-      Kaz Big Gae Ice Cream
-      </p>
+        <table border="2" bordercolor="green">
+        <tr>
+            <td>Table 1</td>
+            <td> Table 1
+                <table border="2" bordercolor="blue">
+                    <tr>
+                        <td>Table 2</td>
+                        <td>Table 2</td>
+                    </tr>
+                    <tr>
+                        <td> Table 2 </td>
+                        <td>Table 2</td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td> Table 1 </td>
+            <td> Table 1. </td>
+        </tr>
+    </table>
     </body>
 </html>
