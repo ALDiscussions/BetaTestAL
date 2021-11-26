@@ -5,7 +5,6 @@
             <td>Azur Lane Tierguide</td>
             <td>Explanations</td>
         </tr>
-
         <tr>
             <td>Summary</td>
             <td>
@@ -16,8 +15,6 @@
             This guide is up to date as of The Flame-Touched Dagger (20 November 2021)"
             </td>
         </tr>
-
-
     </table>
     </body>
 </html>
