@@ -15,10 +15,11 @@
         </td>
         <td>
             <table>
-                <tr style="background-color: black; color: aliceblue;">
-                    <td style="text-align: center;">W 9-11</td>
-                    <td style="text-align: center;">W 12-13</td>
-                    <td style="text-align: center;">W 14</td>
+                <tr>
+                    <td style="text-align: center; background-color: black; color: aliceblue;">W 9-11</td>
+                    <td style="text-align: center; background-color: black; color: aliceblue;">W 12-13</td>
+                    <td style="text-align: center; background-color: black; color: aliceblue;">W 14</td>
+                    <td style="color: aliceblue;">Preffered Position: Any</td>
                 </tr>
                 <tr>
                     <td>
@@ -57,14 +58,7 @@
                             </tr>
                         </table>
                     </td>
-                    <td>
-                        <table>
-                            <tr>
-                                <td>Preffered Position: Any</td>
-                                <td>Role: Preload, Barrage, Survival Booster</td>
-                            </tr>
-                        </table>
-                    </td>
+                    <td>Role: Preload, Barrage, Survival Booster</td>
                 </tr>
             </table>
         </td>
