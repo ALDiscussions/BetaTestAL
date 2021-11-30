@@ -75,7 +75,7 @@
         <tr>
             <td style="border-left-color: aqua; border-width: 5px">
               <img src="">
-              <h4>Asukagawa Chise</h4>
+              <p>Asukagawa Chise</p>
             </td>
         </tr>
     </table>
