@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>breugh</title>
 </head>
-<body>
+<body style="background-color: darkgray;">
     <table>
         <tr>
         <td style="border-left-color: aqua; border-width: 5px">
