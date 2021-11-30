@@ -59,6 +59,9 @@
                         </table>
                     </td>
                     <td>Role: Preload, Barrage, Survival Booster</td>
+                    <tr>
+                        <td>You can think of her like Katsuragi with Preload and an extra AoE Barrage to cover up that weakness.</td>
+                    </tr>
                 </tr>
             </table>
         </td>
