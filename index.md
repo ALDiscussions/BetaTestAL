@@ -57,11 +57,7 @@
                             </tr>
                         </table>
                     </td>
-                </tr>
-                <tr>
                     <td>Preffered Position: Any</td>
-                </tr>
-                <tr>
                     <td>Role: Preload, Barrage, Survival Booster</td>
                 </tr>
             </table>
