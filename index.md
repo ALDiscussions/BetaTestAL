@@ -72,9 +72,11 @@
                 </table>							
             </td>
         </tr>
-        <tr style="border-left-color: aqua; border-width: 5px">
-            <img src="/Images/azur_lane_chise_asukagawa_by_private_gallade_devgpli-fullview.jpg">
-            <h4>Asukagawa Chise</h4>
+        <tr>
+            <td style="border-left-color: aqua; border-width: 5px">
+              <img src="">
+              <h4>Asukagawa Chise</h4>
+            </td>
         </tr>
     </table>
     </body>
